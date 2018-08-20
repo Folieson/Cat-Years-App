@@ -14,6 +14,7 @@
 		B9FEF095210CED20005D9093 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9FEF093210CED20005D9093 /* LaunchScreen.storyboard */; };
 		B9FEF0A0210CED20005D9093 /* Cat_Years_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9FEF09F210CED20005D9093 /* Cat_Years_AppTests.swift */; };
 		B9FEF0AB210CED21005D9093 /* Cat_Years_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9FEF0AA210CED21005D9093 /* Cat_Years_AppUITests.swift */; };
+		B9FEF0B9210CEED3005D9093 /* Cat_November_2010-1a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9FEF0B8210CEED3005D9093 /* Cat_November_2010-1a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B9FEF0A6210CED21005D9093 /* Cat Years AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat Years AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9FEF0AA210CED21005D9093 /* Cat_Years_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_Years_AppUITests.swift; sourceTree = "<group>"; };
 		B9FEF0AC210CED21005D9093 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9FEF0B8210CEED3005D9093 /* Cat_November_2010-1a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cat_November_2010-1a.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B9FEF091210CED20005D9093 /* Assets.xcassets */,
 				B9FEF093210CED20005D9093 /* LaunchScreen.storyboard */,
 				B9FEF096210CED20005D9093 /* Info.plist */,
+				B9FEF0B8210CEED3005D9093 /* Cat_November_2010-1a.jpg */,
 			);
 			path = "Cat Years App";
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9FEF095210CED20005D9093 /* LaunchScreen.storyboard in Resources */,
+				B9FEF0B9210CEED3005D9093 /* Cat_November_2010-1a.jpg in Resources */,
 				B9FEF092210CED20005D9093 /* Assets.xcassets in Resources */,
 				B9FEF090210CED1F005D9093 /* Main.storyboard in Resources */,
 			);
